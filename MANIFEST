@@ -1,7 +1,7 @@
-Apache-Session-NoSQL-0.02.tar.gz
 Changes
 examples/simple.pl
 lib/Apache/Session/NoSQL.pm
+lib/Apache/Session/Redis.pm
 lib/Apache/Session/Store/NoSQL.pm
 lib/Apache/Session/Store/NoSQL/Cassandra.pm
 lib/Apache/Session/Store/NoSQL/Redis.pm
