@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Apache-Session-NoSQL
-version:            0.03
+version:            0.1
 abstract:           An implementation of Apache::Session module for NoSQL databases
 author:
     - Thomas Chemineau <thomas.chemineau@gmail.com>
